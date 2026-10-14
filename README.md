@@ -16,3 +16,24 @@ Tandem: Web dating application prototype featuring real-time messaging
 Beautify: E-commerce dropshipping project on Shopify
 
 Please generate visually appealing, professional Markdown code for my README. Include an engaging 'About Me' intro, a 'Tech Stack' section using shields.io badges, and placeholders for dynamic GitHub Stats cards. Keep the tone professional and forward-thinking.
+Act as a senior software engineer and technical recruiter. Create an impressive, modern, and visually engaging `README.md` file for my GitHub profile based on the details provided below.
+
+### Personal Details:
+- **Name:** [Your Name]
+- **Role / Title:** [e.g., AI & Data Science Student / Software Developer]
+- **Bio/Tagline:** [e.g., Building autonomous AI agents and scalable data pipelines]
+
+### Technical Stack:
+- **Languages:** [e.g., Python, SQL, C++]
+- **Fields & Expertise:** [e.g., Data Structures & Algorithms, ETL, Prompt Engineering, Generative AI]
+- **Tools & Platforms:** [e.g., Git, PostgreSQL, Docker, Shopify]
+
+### Featured Projects:
+1. **[Project Name 1]:** [Short description & technologies used]
+2. **[Project Name 2]:** [Short description & technologies used]
+
+### README Requirements:
+- **Header:** A clean banner section with a brief intro and current focus.
+- **Badges:** Tech stack displayed using colorful `shields.io` badges.
+- **GitHub Stats:** Integrated dynamic GitHub Stats cards (Overall Stats, Top Languages, and Commit Streak).
+- **Socials:** Quick-connect badge links for LinkedIn, Email, and Portfolio.
