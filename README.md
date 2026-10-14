@@ -6,7 +6,7 @@ Name: Rudra Rai
 Education: BS in Applied AI and Data Science at IIT Jodhpur
 
 Skills: Python, DSA, SQL, NoSQL, ETL, data pipelines, Generative AI, and prompt engineering
-
+e
 Notable Projects:
 
 Arid-X: AI voice-agents and automated workflow management for service businesses
